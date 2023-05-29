@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "5aXbplqU+ugwE/qbApI2hZ4FNdRUjnkASQlP5GG5zkg=",
+  "Source": "my_first_webapi",
+  "BasePath": "_content/my_first_webapi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
